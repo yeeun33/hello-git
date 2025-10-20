@@ -3,5 +3,6 @@ public class Hello {
       System.out.println("Hello, world from GIT!");
       System.out.println("Changes after First commit!");
       System.out.println("Changes after First commit!");
+      System.out.println("Changes after Pushing to remote!");:wq
     }
 }
